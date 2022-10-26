@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE productos SYSTEM "reglasproductos.dtd">
+<productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="productos.xsd">
+    <producto>
+        <raton>
+            <codigo>352SS</codigo>
+            <descripcion>mouse inalambrico</descripcion>
+        </raton>
+        <monitor>
+            <codigo>252SS</codigo>
+            <nombre>Hp</nombre>
+            <descripcion>45 pulgadas</descripcion>
+        </monitor>
+    </producto>
+
+
+    <producto>
+        <raton>
+            <codigo>3545SS</codigo>
+            <nombre> Mickeymouse</nombre>
+            <descripcion>Mouse de Walt Disney </descripcion>
+        </raton>
+        <teclado>
+            <codigo>153SS</codigo>
+            <descripcion>Teclado acolchado</descripcion>
+        </teclado>
+        <monitor>
+            <codigo>546SS</codigo>
+            <nombre>sonicultra</nombre>
+        </monitor>
+
+    </producto>
+
+    <producto>
+
+        <teclado>
+            <codigo>124SS</codigo>
+
+        </teclado>
+
+    </producto>
+
+
+</productos>
+
+
+
+
+
